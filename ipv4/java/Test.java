@@ -2,10 +2,10 @@ package v4;
 
 public class Test {
 
-    private String continent;//洲
-    private String country;//国家/地区
-    private String countryEnglish;//国家/地区英文
-    private String countryCode;//国家/地区英文简写
+    private String continent;
+    private String country;
+    private String countryEnglish;
+    private String countryCode;
     private String province;//省份
     private String city;//城市
     private String district;//区县
